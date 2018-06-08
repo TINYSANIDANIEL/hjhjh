@@ -4,7 +4,6 @@
   </head>
   <body>
     <form name="calculator">
-      <h3>Calculadora <a href="#">Internetedadinero.com</a></h3>
       <p>Haz algun calculo para ver el resultado.</p>
       <input type="textfield" name="ans" value="">
       <br>
