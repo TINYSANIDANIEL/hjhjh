@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Page Title</title>
+    <title>Daniel</title>
   </head>
   <body>
     <form name="calculator">
